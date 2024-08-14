@@ -1,4 +1,0 @@
-/home/nickjyeung/Desktop/yocto/poky/meta-openembedded/meta-python
-/home/nickjyeung/Desktop/yocto/poky/meta-de.sigma-chemnitz
-/home/nickjyeung/Desktop/yocto/poky/meta-selinux
-/home/nickjyeung.Desktop/yocto/poky/de.ensc.bpi-router/meta-core
